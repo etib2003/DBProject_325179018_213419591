@@ -1,0 +1,10 @@
+101, Alice Brown, alice@ex.com, 123 Maple St
+102, Bob Smith, bob@ex.com, 456 Oak St
+103, Carol Johnson, carol@ex.com, 789 Pine St
+104, David Wilson, david@ex.com, 321 Elm St
+105, Eve Davis, eve@ex.com, 654 Cedar St
+106, Frank Miller, frank@ex.com, 987 Birch St
+107, Grace Lee, grace@ex.com, 111 Cherry St
+108, Henry Clark, henry@ex.com, 222 Willow St
+109, Irene Lewis, irene@ex.com, 333 Aspen St
+110, Jack Walker, jack@ex.com, 444 Poplar St
