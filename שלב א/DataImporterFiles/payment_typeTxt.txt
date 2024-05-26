@@ -1,0 +1,7 @@
+1, Cash
+2, Credit Card
+3, Check
+4, PayPal
+5, Bank Transfer
+6, Bit
+
