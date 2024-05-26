@@ -1,8 +1,7 @@
-
 CREATE TABLE Singer
 (
   Sname VARCHAR(15) NOT NULL,
-  Id NUMERIC(5) NOT NULL,
+  Singer_Id NUMERIC(5) NOT NULL,
   Price NUMERIC(5) NOT NULL,
   PRIMARY KEY (Id)
 );
